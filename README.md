@@ -640,3 +640,5 @@ into a single visual overview of **air travel from Poland**.
   <b>Flights from Poland </b><br>
   Exploring Polish aviation through data.
 </p>
+
+Documentation update: repository workflow check.
